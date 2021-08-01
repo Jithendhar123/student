@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "pro-c60",
+    "slug": "snack-90973450-b93c-4a94-9524-fb2e0c0d829b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+    
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  
+}
